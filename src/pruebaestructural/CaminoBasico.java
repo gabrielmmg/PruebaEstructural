@@ -4,7 +4,11 @@ import java.util.List;
 import java.util.ListIterator;
 
 /**
+<<<<<<< HEAD
  *intentando hacer git
+=======
+ *segunda modificacion
+>>>>>>> rama1
  * @author Ivan
  */
 public class CaminoBasico {
